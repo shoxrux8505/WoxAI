@@ -1,0 +1,27 @@
+{
+  "name": "ai-business-optimizer",
+  "version": "1.0.0",
+  "description": "A web application for optimizing business processes using AI.",
+  "author": "Your Name",
+  "license": "MIT",
+  "scripts": {
+    "serve": "quasar dev",
+    "build": "quasar build",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "emailjs-com": "^2.6.4",
+    "jsPDF": "^2.4.0",
+    "quasar": "^2.0.0",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^3.0.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-vue": "^7.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
